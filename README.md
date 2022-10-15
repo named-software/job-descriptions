@@ -1,7 +1,6 @@
 ## Job descriptions
 
-Global company job descriptions.
-
+Global company job descriptions.<br>
 The main goal is to showcase the company's core technologies and technical skills needed for the job.
 
 #### Portuguese
