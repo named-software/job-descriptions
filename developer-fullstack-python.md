@@ -1,6 +1,6 @@
 ### Desenvolvedor Full Stack Python
 
-**Aqui na Named Software a gente se conecta com você**
+**Aqui a gente se conecta com você!**
 
 Somos uma empresa especialista em transformação digital de ponta a ponta.
 
