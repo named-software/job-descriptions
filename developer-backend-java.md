@@ -1,5 +1,14 @@
 ### Desenvolvedor Back-end Java
 
+**Aqui na Named Software a gente se conecta com você**
+
+Somos uma empresa especialista em transformação digital de ponta a ponta.
+
+Construímos soluções digitais completas e escaláveis acelerando o impacto nos negócios através do desbloqueio do crescimento de receita, impulsionando a experiência do cliente e aumentando a eficiência operacional.
+Contamos com especialista em estratégia, pesquisa, ciência de dados, design e engenharia.
+
+Somos uma empresa multicultural e inclusiva focada em criar um presente consistente e um futuro melhor.
+
 **Descrição da vaga**
 
 Buscamos desenvolvedores apaixonados por tecnologia, com vontade de encarar os desafios da profissão com entusiasmo e motivação, que seja proativo, organizado, sempre em busca de melhores resultados, entregando valor aos clientes com eficiência e qualidade. Valorizamos desenvolvedores com rápida capacidade de assimilação, que trabalhe de forma independente e orientado a entregas.
